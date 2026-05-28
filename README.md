@@ -39,7 +39,7 @@ This portfolio website was developed for internship applications and to showcase
 Pradeep
 AI & ML Student
 Frontend Developer | Tech Enthusiast
-
+CITS2564
 ## Live Demo
 
 Add your deployed portfolio link here.
